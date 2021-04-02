@@ -1,4 +1,4 @@
-# Profitable-App-Profiles-for-the-App-Store-and-Google-Play-Markets
+# Profitable App Profiles for the App Store and Google Play Markets
 
 The goal of this project is to help our developers have a better understanding of the apps that are profitable both on the App Store and Google Play in order to help them design apps that are likely to attract more users.
 
